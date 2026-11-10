@@ -44,6 +44,8 @@ by day i'm a full-stack engineer at **toolkit**. the rest of the time i'm buildi
 
 ### say hi
 
-[lucasac.tech](https://lucasac.tech) · [linkedin](https://www.linkedin.com/in/lucas-ac/) · [email](mailto:lucasac.contato@outlook.com)
+<a href="https://lucasac.tech"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hi-site-dark.svg"><img src="assets/hi-site-light.svg" width="32%" alt="site: lucasac.tech"></picture></a>
+<a href="https://www.linkedin.com/in/lucas-ac/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hi-linkedin-dark.svg"><img src="assets/hi-linkedin-light.svg" width="32%" alt="linkedin: in/lucas-ac"></picture></a>
+<a href="mailto:lucasac.contato@outlook.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hi-email-dark.svg"><img src="assets/hi-email-light.svg" width="32%" alt="email: lucasac.contato@outlook.com"></picture></a>
 
 <sub>são paulo, brasil · português, english, un poco de español</sub>
