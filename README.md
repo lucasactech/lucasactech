@@ -1,34 +1,49 @@
-### 
-<!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px">   -->
-Opa, tudo bem?! 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="20px"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" width="100%" alt="An automation flow: when an idea shows up, Lucas routes it through API, LLM and UI, then it ships">
+</picture>
 
+### hey, i'm lucas.
 
-- 🔭 Seja bem vindo, me chamo Lucas e tenho 21 anos!
-- 🗺️ Formado em Análise e Desenvolvimento de Sistemas na FATEC.
-- 🎓 Pós-graduado em Full Stack Development pela FIAP.
-- 🗺️ Sou de São Paulo - SP, Brasil. 
+i build things that take work off people's plates: web products end to end, with llms wired in where they actually help and automations doing the boring part.
 
-  <div align="center"><br>
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <img src="https://img.icons8.com/color-glass/48/000000/python.png"/>
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-    <img src="https://img.icons8.com/officel/40/undefined/php-logo.png"/>   
-    <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
-    <img src="https://img.icons8.com/officel/48/react.png" alt="React" />
-   <!-- <img src="https://img.icons8.com/color/48/000000/sql.png"/> -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px" />
-  
-    
-## Another basic skills:
-  <img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png"/> <img src="https://img.icons8.com/color/48/000000/ms-powerpoint--v1.png"/> <img src="https://img.icons8.com/fluency/48/000000/microsoft-word-2019.png"/> <img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/> 
-  
- ## Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-  
+by day i'm a full-stack engineer at **toolkit**. the rest of the time i'm building **[partiu.ai](https://partiu.me)**, which turns "we're getting married in march" into a working event website.
 
-  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/lucas-ac/)
-  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:lucas.cwtch@gmail.com)
+- **the whole problem, not a slice of it** — database, api, interface, deploy. i'd rather own the outcome than a ticket.
+- **ai as plumbing, not decoration** — chatbots and predictive systems that run in production, for people who never have to know there's a model behind them.
+- **if i did it twice, a workflow does it the third time** — my favorite kind of code is the kind that deletes work.
+
+<br>
+
+### things i've shipped
+
+<a href="https://partiu.me">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/partiu-dark.svg">
+  <img src="assets/partiu-light.svg" width="100%" alt="partiu.ai — describe your event, get a working website. Live at partiu.me">
+</picture>
+</a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/work-dark.svg">
+  <img src="assets/work-light.svg" width="100%" alt="Private work: a corporate intranet used by 3,000+ people, and LLM chatbots and automations">
+</picture>
+
+<sub>the good stuff sits in private repos — if you're curious, ask and i'll show you around.</sub>
+
+<br>
+
+### what i reach for
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" width="100%" alt="Stack: Python, JavaScript, PHP, SQL, React, Next.js, Node.js, FastAPI, Express, PostgreSQL, MySQL, MongoDB, Firebase, Claude API, OpenAI API, Zapier, Make">
+</picture>
+
+<br>
+
+### say hi
+
+[lucasac.tech](https://lucasac.tech) · [linkedin](https://www.linkedin.com/in/lucas-ac/) · [email](mailto:lucasac.contato@outlook.com)
+
+<sub>são paulo, brasil · português, english, un poco de español</sub>
